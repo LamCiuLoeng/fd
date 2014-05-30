@@ -1,0 +1,11 @@
+BEGIN;
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'NONE', NULL);
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'SPRING 266 C', '#5c3cb3');
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'SPRING 368 C ', '#87bd3c');
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'SUMMER 129 C', '#e9ce52');
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'SUMMER 185 C', '#c00036');
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'FALL 171 C', '#e15c41');
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'FALL 429 C', '#a6aaad');
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'WINTER 205 C', '#be4a7c');
+INSERT INTO "master_dot_pantone" ("active", "val", "css") VALUES (0, 'WINTER 2727 C', '#567dd7');
+COMMIT;

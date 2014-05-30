@@ -1,0 +1,12 @@
+BEGIN;
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'BOYS');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'GIRLS 4-6X');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'GIRLS 7-16');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'INFANTS');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'LADIES');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'MEN');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'NEWBORN');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'PLUS');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'SLEEPWEAR');
+INSERT INTO "master_category" ("active", "val") VALUES (0, 'TODDLERS');
+COMMIT;
